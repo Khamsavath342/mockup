@@ -1,0 +1,106 @@
+body{
+    font: 20px sans-serif;
+    background:linear-gradient(purple, gold);
+}
+
+
+header{
+    border: 2px solid black;
+    width: 100%;
+    padding: 5%;
+    background:linear-gradient(purple, gold);
+    background-image: ;
+}
+
+
+main{
+    margin: 21px;
+    border: 2px solid plum;
+    width: 60%;
+    float: left;
+    text-align: left;
+    padding-right: 5%;   
+}
+
+
+h1{
+    color: white;
+    background:linear-gradient(purple, gold);
+    font-size: 50px;
+
+
+}
+.head-one{
+        color: white;
+        background:linear-gradient(purple, gold);
+        font-style: italic;
+    }
+
+
+.head-two{
+    color: cyan;
+}
+
+
+h2{
+    color: black;
+}
+
+
+nav{
+    padding: 3%;
+    width: 160%;
+    background:linear-gradient(purple, gold);
+    
+}
+
+
+.head-three{
+    color: black;
+}
+
+
+h3{
+    color: white;
+}
+
+
+.head-four{
+    color: black;
+}
+
+
+.head-five{
+    color: black;
+}
+
+
+.head-six{color: cyan;
+}
+
+
+aside{
+    margin: .5px;
+    border: 2px solid brown;
+    width: 30%;
+    float: right;
+    
+   
+    
+}
+footer{
+    position: absolute;
+    width: 100%;
+    margin-top: 40rem;
+    float:none;
+    border: 2px solid pink;
+    background:linear-gradient(purple, gold);
+    color: white;
+    text-align:center;
+}
+.kitten{
+    background-color: crimson;
+    background-size: 150%;
+    max-width: 100%;
+    height: auto;
+}
